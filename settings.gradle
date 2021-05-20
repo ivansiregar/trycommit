@@ -1,0 +1,5 @@
+include ':ondemand_logistic'
+include ':ondemand_sales'
+include ':oninstall'
+include ':app'
+rootProject.name = "p414_Dagger"
